@@ -58,8 +58,7 @@ IF(
 ### Background Table  
 ![dashboard_table](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Screenshot%202025-07-19%20130104.png)  
 
-### Dashboard Implementation  
-![data_validation]()  
+### Dashboard Implementation   
 ## Data Validation  
 Filtered list  
 - ✅Enhanced data validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the data tab ensures:
