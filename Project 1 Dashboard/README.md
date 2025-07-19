@@ -21,7 +21,14 @@ The dataset used for this project contains real-world data science job informati
 - Locations
 - skills
 
-  ## Dashboard Build
-  ## 📈Charts
-  ### Data Science job salaries-Bar Chart
-  ![project 1 dashboard](
+## Dashboard Build
+## 📈Charts
+### Data Science job salaries-Bar Chart
+![project 1 dashboard](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Project%201%20Dashboard/Screenshot%202025-07-19%20052032.png)
+- Excel Features: Utilized bar chart features(with formatted salary values) and optimized layout for clarity.
+- Design choice: Horizontal bar chart for visual comparison of median salaries.
+- Design Organization: Sorted job titles by ascending salary to improve readability.
+- Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than analyst roles.
+
+## Country Median Salary-Map Chart  
+![map_chart](
