@@ -1,3 +1,9 @@
 # Excel Salary Dashboard   
 ![Salary_Dashboard_Final_Dashboard](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Project%201%20Dashboard/Screenshot%202025-07-19%20052000.png)  
 
+## Introduction  
+This data job salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.  
+The data is from my Excel course which provides a foundations in analyzing data using this powerful tools. The data contains detailed information on job title, salaries, locations and essential skills that are presented here.  
+
+## Dashboard File  
+My Dashboard is in (
