@@ -66,7 +66,7 @@ Filtered list
   - ❌Incorrect or inconsistent entries are prevented
   - 🚀Overall usability of the dashboard is enhanced.
   
-![data_valid](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Screen%20Recording%202025-07-19%20052458.gif)
+![data_valid](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Screen%20Recording%202025-07-19%20052154.gif)  
 ## Conclusion  
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel dataset, I explored multiple dimensions such as job titles, salary ranges, company locations, employment types, and experience levels. The dashboard provides a visual summary of how these factors influence salary distributions in the data industry.
 
