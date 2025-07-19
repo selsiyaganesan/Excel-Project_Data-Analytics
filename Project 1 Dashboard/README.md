@@ -11,15 +11,15 @@ My Dashboard is in (https://github.com/selsiyaganesan/Excel-Project_Data-Analyti
 ## Excel Skills Used  
 The following Excel skills were utilized for dashboard analysis  
 - 📈Charts
-- Formulas and Functions
-- Data validation  
+- 🔢Formulas and Functions
+- ✅Data validation  
 
 ## Data Jobs Datasets  
 The dataset used for this project contains real-world data science job information from 2023.It includes detailed information on:  
-- Job titles
-- Salaries
-- Locations
-- skills
+- 👨‍💼Job titles
+- 💰Salaries
+- 🌎Locations
+- 🛠️skills
 
 ## Dashboard Build
 ## 📈Charts
@@ -51,10 +51,10 @@ IF(
  )
  )  
  ```
-- Multi-Criteria Filtering: Checks job titles, country, schedule type, and excludes blank salaries.
-- Array Formula: Utilizes MEDIAN() Function with Nested IF() statement to analyze an array.
-- Tailored Insights: Provides specific salary information for job titles, regions and schedule types.
-- Formula purpose: This formula populates the table below, returning the median salary based on job title, country, and type.
+- 🔍Multi-Criteria Filtering: Checks job titles, country, schedule type, and excludes blank salaries.
+- 🧮Array Formula: Utilizes MEDIAN() Function with Nested IF() statement to analyze an array.
+- 🧠Tailored Insights: Provides specific salary information for job titles, regions and schedule types.
+- 🔢Formula purpose: This formula populates the table below, returning the median salary based on job title, country, and type.
 ### Background Table  
 ![dashboard_table](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Screenshot%202025-07-19%20130104.png)  
 
@@ -62,10 +62,10 @@ IF(
 ![data_validation]()  
 ## Data Validation  
 Filtered list  
-- Enhanced data validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the data tab ensures:
-- - The user input is restricted to predefined, validated schedule types
-  - Incorrect or inconsistent entries are prevented
-  - Overall usability of the dashboard is enhanced.
+- ✅Enhanced data validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the data tab ensures:
+- - 🎯The user input is restricted to predefined, validated schedule types
+  - ❌Incorrect or inconsistent entries are prevented
+  - 🚀Overall usability of the dashboard is enhanced.
 ![data_valid](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Screen%20Recording%202025-07-19%20052458.gif)
 ## Conclusion  
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel dataset, I explored multiple dimensions such as job titles, salary ranges, company locations, employment types, and experience levels. The dashboard provides a visual summary of how these factors influence salary distributions in the data industry.
