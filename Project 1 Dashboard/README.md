@@ -62,7 +62,7 @@ IF(
 ## Data Validation  
 Filtered list  
 - ✅Enhanced data validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the data tab ensures:
-- - 🎯The user input is restricted to predefined, validated schedule types
+  - 🎯The user input is restricted to predefined, validated schedule types
   - ❌Incorrect or inconsistent entries are prevented
   - 🚀Overall usability of the dashboard is enhanced.
   
