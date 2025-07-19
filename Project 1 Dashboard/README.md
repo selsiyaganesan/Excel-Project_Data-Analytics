@@ -14,3 +14,14 @@ The following Excel skills were utilized for dashboard analysis
 - Formulas and Functions
 - Data validation  
 
+## Data Jobs Datasets  
+The dataset used for this project contains real-world data science job information from 2023.It includes detailed information on:  
+- Job titles
+- Salaries
+- Locations
+- skills
+
+  ## Dashboard Build
+  ## 📈Charts
+  ### Data Science job salaries-Bar Chart
+  ![project 1 dashboard](
