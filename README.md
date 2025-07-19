@@ -11,4 +11,5 @@ I set out to understand what skills top employers request and how to land more p
 [Checkout my work here](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/raw/refs/heads/main/Project%202%20Microsoft%20Excel.xlsx)  
 
 ![Salary_Analysis](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Screenshot%202025-07-19%20065155.png)  
-![Salary_Analysis_2](
+![Salary_Analysis_2](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Screenshot%202025-07-19%20065239.png)  
+
