@@ -31,4 +31,32 @@ The dataset used for this project contains real-world data science job informati
 - Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than analyst roles.
 
 ## Country Median Salary-Map Chart  
-![map_chart](
+![map_chart](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Project%201%20Dashboard/Screenshot%202025-07-19%20052323.png)  
+- Excel Features: Utilized Excel's Map Chart feature to plot median salaries globally.
+- Design Choice: Color-coded Map to visually differentiate salary levels across regions.
+- Data Representation: Plotted median salary for each country eith available data.
+- Visual Enhancement: Improved readability and immediate understanding of geographic salary trends.
+- Insights Gained: Enables quick grasps of global salary disparities and highlights high/low salary regions.
+
+## Formulas and Functions  
+### Median salary by Job Titles  
+```
+MEDIAN=(
+IF(
+   (jobs[job_title_short]=A2)*
+   (jobs[job_country=country])*
+   (ISNUMBER(SERACH(type,jobs[job_schedule_type])))*
+   (jobs[salary_year_avg<>0),
+   jobs[salary_year_avg]
+ )
+ )  
+ ```
+- Multi-Criteria Filtering: Checks job titles, country, schedule type, and excludes blank salaries.
+- Array Formula: Utilizes MEDIAN() Function with Nested IF() statement to analyze an array.
+- Tailored Insights: Provides specific salary information for job titles, regions and schedule types.
+- Formula purpose: This formula populates the table below, returning the median salary based on job title, country, and type.
+### Background Table  
+![dashboard_table](
+ 
+ 
+   
