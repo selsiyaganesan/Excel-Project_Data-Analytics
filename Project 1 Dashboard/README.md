@@ -56,7 +56,10 @@ IF(
 - Tailored Insights: Provides specific salary information for job titles, regions and schedule types.
 - Formula purpose: This formula populates the table below, returning the median salary based on job title, country, and type.
 ### Background Table  
-![dashboard_table](
+![dashboard_table](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Screenshot%202025-07-19%20130104.png)  
+
+### Dashboard Implementation  
+![data_validation](
  
  
    
