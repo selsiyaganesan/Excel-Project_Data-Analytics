@@ -7,7 +7,7 @@ The data is from my Excel course which provides a foundations in analyzing data 
 
 ## Dashboard File  
 My Dashboard is in (https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Project%201%20Dashboard.xlsx)  
-
+🔗 [Download the Dashboard Excel File]
 ## Excel Skills Used  
 The following Excel skills were utilized for dashboard analysis  
 - 📈Charts
