@@ -31,7 +31,7 @@ The dataset used for this project contains real-world data science job informati
 - Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than analyst roles.
 
 ## Country Median Salary-Map Chart  
-![map_chart]()  
+![map_chart](https://github.com/selsiyaganesan/Excel-Project_Data-Analytics/blob/main/Screenshot%202025-07-19%20052323.png)  
 - Excel Features: Utilized Excel's Map Chart feature to plot median salaries globally.
 - Design Choice: Color-coded Map to visually differentiate salary levels across regions.
 - Data Representation: Plotted median salary for each country eith available data.
