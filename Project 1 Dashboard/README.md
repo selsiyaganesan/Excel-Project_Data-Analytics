@@ -1,5 +1,6 @@
 # Excel Salary Dashboard   
-<img width="1504" height="600" alt="Screenshot 2025-07-19 052000" src="https://github.com/user-attachments/assets/96cd2ba6-b96b-46e2-a315-abe2d1a75457" />
+![Screen Recording 2025-07-20 162149](https://github.com/user-attachments/assets/d075b446-409d-4cd4-ac58-dddda664cdbd)
+
 
 
 ## Introduction  
@@ -7,7 +8,8 @@ This data job salary dashboard was created to help job seekers investigate salar
 The data is from my Excel course which provides a foundations in analyzing data using this powerful tools. The data contains detailed information on job title, salaries, locations and essential skills that are presented here.  
 
 ## Dashboard File  
-My Dashboard is in [Project 1 Dashboard.xlsx](https://github.com/user-attachments/files/21327288/Project.1.Dashboard.xlsx)
+My Dashboard is in [Excel Dashboard Project 1.xlsx](https://github.com/user-attachments/files/21334457/Excel.Dashboard.Project.1.xlsx)
+
 
 ## Excel Skills Used  
 The following Excel skills were utilized for dashboard analysis  
@@ -69,7 +71,8 @@ Filtered list
   - ❌Incorrect or inconsistent entries are prevented
   - 🚀Overall usability of the dashboard is enhanced.
   
-![Screen Recording 2025-07-19 052154](https://github.com/user-attachments/assets/a9ceef9e-9029-4956-b7c3-3699ccadfc2e)
+![Screen Recording 2025-07-20 161044](https://github.com/user-attachments/assets/d9fa4578-c972-4cbf-84b1-3fa0f852556e)
+
 
   
 ## Conclusion  
